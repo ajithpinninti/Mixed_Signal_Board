@@ -1,5 +1,8 @@
-Record=TopLevelDocument|FileName=Ethernet PHY.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Ethernet PHY.SchDoc|FileName=Motor_Driver_Schematic.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Ethernet PHY.SchDoc|FileName=PCB_Block_diagram.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Ethernet PHY.SchDoc|FileName=Power_Budget.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Ethernet PHY.SchDoc|FileName=STM32F103.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=ADC_Chip.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=ADC_Chip.SchDoc|FileName=CH340C.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ADC_Chip.SchDoc|FileName=DAC_and_MIC.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=ADC_Chip.SchDoc|FileName=Ethernet PHY.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ADC_Chip.SchDoc|FileName=Motor_Driver_Schematic.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADC_Chip.SchDoc|FileName=PCB_Block_diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ADC_Chip.SchDoc|FileName=Power_Budget.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ADC_Chip.SchDoc|FileName=STM32F103.SchDoc|SheetNumber=3
