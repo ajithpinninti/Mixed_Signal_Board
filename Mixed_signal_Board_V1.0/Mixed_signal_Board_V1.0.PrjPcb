@@ -202,6 +202,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ELOIXPCH
 
 [Document10]
+DocumentPath=Motor_Driver_2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RWSICYGQ
+
+[Document11]
 DocumentPath=STM32F407_Controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +235,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHYCZCHZ
 
-[Document11]
+[Document12]
+DocumentPath=Power_input_and_regulators.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NZOXXRBF
+
+[Document13]
 DocumentPath=Mixed_signal_Board_V1.0.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,8 +269,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
-DocumentPath=Motor_Driver_2.SchDoc
+[Document14]
+DocumentPath=Mixed_signal_Board_V1.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -250,7 +284,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RWSICYGQ
+DocumentUniqueId=ASCMDYFB
 
 [Configuration1]
 Name=Sources
